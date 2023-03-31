@@ -1,6 +1,6 @@
 Name:		texlive-cleanthesis
 Version:	51472
-Release:	1
+Release:	2
 Summary:	A clean LaTeX style for thesis documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cleanthesis
